@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<OpenViews>
+	<View Key="Graphical Hardware Editor" Type="17"/>
+	<View Key="FibonacciChallegeNetwork" Type="0"/>
+	<View Key="FibChallenge" Type="2" LineNr="52"/>
+	<View Key="FibonacciChallegeNetwork" Type="0"/>
+	<Setting Variable="OutputDebugger" Value="0"/>
+</OpenViews>
